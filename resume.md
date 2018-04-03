@@ -8,10 +8,6 @@ I am a software developer based in Ottawa. I have a passion for learning and bel
 My experience ranges from front end web interfaces and single page apps to Android applications, back end APIs and Linux server administration.
 In my free time I am currently working on home automation software and an app that allows multiple people to organize their grocery lists and stay synced.
 
-
-## Technical Skills:
-JavaScript, TypeScript, Python, Java, Shell Scripting, Docker, Gulp, Webpack, React, Angular, Django, Flask, Express.js, Cordova, GIT, JSON, HTML, CSS, Sass, SQL
-
 ## Experience:
 ### Hospitality Network Canada (Mississauga, ON)
 **Software Developer**, May 2016 - Nov 2017
@@ -22,6 +18,9 @@ JavaScript, TypeScript, Python, Java, Shell Scripting, Docker, Gulp, Webpack, Re
 - Talked with clients to discuss projects and gather requirements
 - Worked in agile team environment
 
+> #### Technical Tools
+JavaScript, TypeScript, Angular 2, React.js, Python, Java, Node.js, Shell Scripting, Docker, Gulp, Webpack, Django, Flask, Express.js, GIT, GitLab CI, JSON, HTML5, CSS3, Sass, SQL
+
 
 ### iPorta Corp (Toronto, ON)
 **Software Developer**, Jun 2013 - May 2016
@@ -29,11 +28,17 @@ JavaScript, TypeScript, Python, Java, Shell Scripting, Docker, Gulp, Webpack, Re
 - Led a small team of developers to develop and maintain kiosk, and device tracking software
 - Gathered requirements, designed and developed single page web app for hospital patients to view information about their stay
 
+> #### Technical Tools
+JavaScript, React.js, jQuery, Bootstrap 2, Node.js, MongoDB, Gulp, Grunt, Webpack, GIT, JSON, HTML5, CSS3, Sass
+
 ### Hewlett-Packard (Toronto, ON)
 **Web Developer**, Oct 2010 - Nov 2012
 
 - Updated and maintained large e-commerce website hpshopping.ca in a production environment
 - Gained a strong understanding of project goals and consistent brand messaging by collaborating with the marketing team and brand managers
+
+> #### Technical Tools
+JavaScript, jQuery, PHP, XHTML, CSS, Photoshop
 
 ### Dragonfly IT (Kingston, ON)
 **Web Developer**, Sep 2006 - Oct 2010
@@ -41,12 +46,17 @@ JavaScript, TypeScript, Python, Java, Shell Scripting, Docker, Gulp, Webpack, Re
 - Developed and maintained over 20 web sites for client base including Queens University and the City of Kingston, and designed several complex Flash-based applications
 - Gained proficiency at coding site templates for the Joomla, Drupal and Seagull frameworks
 
+> #### Technical Tools
+JavaScript, Flash ActionScript, PHP, XHTML, CSS, Photoshop, Maya
+
 ### Kingston Software Factory (Kingston, ON)
 **Web Developer**, Nov 2004 - Aug 2006
 
 - Designed and developed for the Seagull PHP framework to provide CMS-based websites for a variety of clients
 - Created and maintained modules for an MVC framework
 
+> #### Technical Tools
+PHP, Flash ActionScript, PHP, XHTML, CSS, Photoshop, 3D Studio Max
 
 ## Education:
 ### St\. Lawrence College
