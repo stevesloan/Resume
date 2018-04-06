@@ -29,7 +29,7 @@ JavaScript, TypeScript, Angular 2, React.js, Python, Java, Node.js, Shell Script
 - Gathered requirements, designed and developed single page web app for hospital patients to view information about their stay
 
 > #### Technical Tools
-JavaScript, React.js, jQuery, Bootstrap 2, Node.js, MongoDB, Gulp, Grunt, Webpack, GIT, JSON, HTML5, CSS3, Sass
+JavaScript, React.js, Node.js, MongoDB, Gulp, Grunt, Webpack, GIT, JSON, HTML5, jQuery, Bootstrap, CSS3, Sass
 
 ### Hewlett-Packard (Toronto, ON)
 **Web Developer**, Oct 2010 - Nov 2012
