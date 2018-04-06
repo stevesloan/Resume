@@ -16,4 +16,4 @@ all:    resume.html resume.docx resume.pdf
 	markdown2pdf --template=resume-template.tex --xetex $<
 
 clean:
-	rm *.html *.log *.pdf *.docx
+	rm Steve\ Sloan\ -\ Resume*
