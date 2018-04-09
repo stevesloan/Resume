@@ -18,7 +18,7 @@ In my free time I am currently working on home automation software and an app th
 - Talked with clients to discuss projects and gather requirements
 - Worked in agile team environment
 
-> #### Technical Environment
+> **Technical Environment:**
 JavaScript, TypeScript, React.js, Python, Angular.js, Java, Node.js, Shell Scripting, Docker, Gulp, Webpack, Django, Flask, Express.js, GIT, GitLab CI, JSON, HTML5, CSS3, Sass, SQL
 
 
@@ -28,7 +28,7 @@ JavaScript, TypeScript, React.js, Python, Angular.js, Java, Node.js, Shell Scrip
 - Led a small team of developers to develop and maintain kiosk, and device tracking software
 - Gathered requirements, designed and developed single page web app for hospital patients to view information about their stay
 
-> #### Technical Environment 
+> **Technical Environment:**
 JavaScript, React.js, Node.js, MongoDB, Gulp, Grunt, Webpack, GIT, JSON, HTML5, jQuery, Bootstrap, CSS3, Sass
 
 ### Hewlett-Packard (Toronto, ON)
@@ -37,7 +37,7 @@ JavaScript, React.js, Node.js, MongoDB, Gulp, Grunt, Webpack, GIT, JSON, HTML5, 
 - Updated and maintained large e-commerce website hpshopping.ca in a production environment
 - Gained a strong understanding of project goals and consistent brand messaging by collaborating with the marketing team and brand managers
 
-> #### Technical Environment
+> **Technical Environment:**
 JavaScript, jQuery, PHP, XHTML, CSS, Photoshop
 
 ### Dragonfly IT (Kingston, ON)
@@ -46,7 +46,7 @@ JavaScript, jQuery, PHP, XHTML, CSS, Photoshop
 - Developed and maintained over 20 web sites for client base including Queens University and the City of Kingston, and designed several complex Flash-based applications
 - Gained proficiency at coding site templates for the Joomla, Drupal and Seagull frameworks
 
-> #### Technical Environment
+> **Technical Environment:**
 JavaScript, Flash ActionScript, PHP, XHTML, CSS, Photoshop, Maya
 
 ### Kingston Software Factory (Kingston, ON)
@@ -55,7 +55,7 @@ JavaScript, Flash ActionScript, PHP, XHTML, CSS, Photoshop, Maya
 - Designed and developed for the Seagull PHP framework to provide CMS-based websites for a variety of clients
 - Created and maintained modules for an MVC framework
 
-> #### Technical Environment
+> **Technical Environment:**
 PHP, Flash ActionScript, PHP, XHTML, CSS, Photoshop, 3D Studio Max
 
 ## Education:
